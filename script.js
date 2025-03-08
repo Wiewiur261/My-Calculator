@@ -21,3 +21,4 @@ function calculate() {
     clearScreen();
   }
 }
+alert("The percentage function does not work!");
