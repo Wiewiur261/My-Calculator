@@ -5,11 +5,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-image: linear-gradient(
-    to bottom right,
-    rgb(61, 2, 87),
-    rgb(4, 4, 78)
-  );
+  background: url(background.jpeg);
 }
 .container {
   display: flex;
